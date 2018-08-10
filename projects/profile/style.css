@@ -1,0 +1,42 @@
+body{
+background-image: url('1968081.jpg');
+background-size:100%;
+background-repeat: repeat;
+font-family:Arial;
+color: white;
+
+}
+
+
+h1{
+color:yellow;
+font-size:35px;
+}
+
+ul{
+font-style:oblique;
+font-size:20px;
+}
+
+ol{
+color:#3cc415;
+font-size:18px;
+}
+
+img{
+width:350px;
+length:350px;
+}
+
+a{
+color:#cdc4fa;
+font-weight:bold;
+}
+h5{
+    width: 13em; 
+    border: 1px solid white;
+    word-wrap: break-word;
+	font-size:23px;
+	font-style:italic;
+
+}

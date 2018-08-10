@@ -1,0 +1,47 @@
+body{
+background-image: url('12.jpg');
+background-size:100%;
+background-repeat: repeat;
+font-family:Arial;
+color: black;
+
+}
+a{
+font-size:20px;
+color:#cdc4fa;
+font-weight:bold;
+margin-top:100px;
+}
+
+
+h1{
+color: white;
+margin-top: 60px;
+font-size:45px;
+}
+img{
+width:310px;
+length:320px;
+
+}
+img cook{
+width:500px
+length:420px;
+}
+
+
+p{
+text-align: left;
+color: white;
+font-family:Time New Roman;
+font-style:oblique;
+font-size:20px;
+}
+
+ol{
+font-style: italic;
+font-size: 24px;
+font-weight:bold;
+color: yellow;
+
+}
