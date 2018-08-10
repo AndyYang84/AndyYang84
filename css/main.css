@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 75%;
     font-family: 'Asap', sans-serif;
 }
 nav ul, footer ul {
@@ -11,11 +11,11 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 23px;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #956;
 }
 a:hover {
     text-decoration: underline;
@@ -25,7 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.6em;
     line-height: 1.4em;
     color: #333;
 }
