@@ -49,3 +49,9 @@ ul.posts li {
 }
 
 
+#profile{
+    border-radius: 50%;
+    height: 50%;
+    width:50%;
+}
+
