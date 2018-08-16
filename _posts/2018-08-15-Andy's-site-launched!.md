@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Andy Yang, Launches Site"
-date: 2018-08-15
+date: 2018-08-13
 ---
 Hey guys!
 Well. Finally got around to putting this old website together. 
