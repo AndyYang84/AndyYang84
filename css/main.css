@@ -6,7 +6,7 @@ body {
 }
 nav{
     border-bottom: 1.5px solid #d5d5d5; 
-    font-size: 1.3em;
+    font-size: 3em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
