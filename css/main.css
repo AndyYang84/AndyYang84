@@ -6,7 +6,7 @@ body {
 }
 nav{
     border-bottom: 1.5px solid #d5d5d5; 
-    font-size: 3em;
+    font-size: 2em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -36,7 +36,7 @@ p {
 }
 footer {
     border-top: 1.3px solid #d5d5d5;
-    font-size: .9em;
+    font-size: 1.5em;
 }
 
 
