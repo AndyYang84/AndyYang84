@@ -11,7 +11,7 @@ nav{
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
@@ -26,7 +26,7 @@ a {
 
 a.navB{
     color: white;
-    padding: 10px 22px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
