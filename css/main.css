@@ -22,6 +22,17 @@ a {
     text-decoration: none;
     color: #956;
 }
+
+a.navB{
+    background-color:darkturquoise;
+    border: 3px solid black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
 a:hover {
     text-decoration: underline;
 }
