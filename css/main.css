@@ -24,7 +24,7 @@ a {
     color: #956;
 }
 
-a.navB{
+a.navB:link{
     color: white;
     padding: 3px 6px;
     text-align: center;
@@ -33,7 +33,7 @@ a.navB{
 }
 
 a.navB:hover{
-    background-color #2c6cdf: 
+    background-color:#002448;
 }
 
 
