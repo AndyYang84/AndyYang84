@@ -10,7 +10,7 @@ nav{
     background-color: cornflowerblue;
 }
 nav ul{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Jua', sans-serif;
     padding: 5px;
     margin: 0;
     background-color: #0047b3;
@@ -81,6 +81,7 @@ p {
     font-size: 1.3em;
     line-height: 1.6em;
     color: #333;
+    
 }
 footer {
     border-top: 1.3px solid #d5d5d5;
