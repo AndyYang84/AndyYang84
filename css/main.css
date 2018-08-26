@@ -49,7 +49,7 @@ a.navB{
     display: inline-block;
 }
 
-a.navB:hover{
+a.navB:hover:not(.active){
     background-color:#003380;
     text-decoration: none;
 }
@@ -58,6 +58,13 @@ a.navB:hover{
 a:hover {
     text-decoration: underline;
 }
+
+
+
+a.navB.active {
+    background-color: #4CAF50;
+}
+
 
 
 
