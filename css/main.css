@@ -13,7 +13,7 @@ nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
     margin: 0;
-    background-color: #336;
+    background-color: #0047b3;
     list-style-type: none;
     font-weight: bold;
 }
@@ -50,7 +50,8 @@ a.navB{
 }
 
 a.navB:hover{
-    background-color:#002448;
+    background-color:#003380;
+    text-decoration: none;
 }
 
 
