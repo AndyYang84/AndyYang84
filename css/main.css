@@ -9,18 +9,34 @@ nav{
     font-size: 2.3em;
     background-color: cornflowerblue;
 }
-nav ul, footer ul {
+nav ul{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0;
+    margin: 0;
+    background-color: #336;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
     font-weight: bold;
 }
 
+nav ul li{
+    display: inline;
+    margin-right: 5px;
+    float: left;
+}
 
-nav ul li, footer ul li {
+footer ul li{
     display: inline;
     margin-right: 5px;
 }
+
 a {
     text-decoration: none;
     color: #956;
@@ -42,6 +58,20 @@ a.navB:hover{
 a:hover {
     text-decoration: underline;
 }
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
 h1 {
     font-size: 2.6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
