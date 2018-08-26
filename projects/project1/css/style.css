@@ -49,9 +49,10 @@ h1:hover{
 }
 
 body{
-    background: url("../images/nl1.jpg")
-    no-repeat center center fixed;
+    background: url("../images/nl1.jpg") no-repeat center center fixed;
     background-size: cover;
+    margin: 25px auto;
+    width: 85%;
 }
 
 h2{
