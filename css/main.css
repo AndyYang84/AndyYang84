@@ -16,6 +16,9 @@ nav ul{
     background-color: #0047b3;
     list-style-type: none;
     font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 
@@ -49,11 +52,11 @@ a.navB{
     display: inline-block;
 }
 
-a.navB:hover:not(.active){
+a.navB:hover {
     background-color:#003380;
     text-decoration: none;
 }
-.active {
+a.navB:active {
     background-color: #4CAF50;
 }
 
