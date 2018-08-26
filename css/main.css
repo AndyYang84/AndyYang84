@@ -15,10 +15,10 @@ nav ul{
     margin: 0;
     background-color: #0047b3;
     list-style-type: none;
-    font-weight: bold;
+    font-weight:normal;
     position: fixed;
-    top: 5px;
-    width: 100%;
+    top: 0;
+    width:100%;
 }
 
 
@@ -55,7 +55,8 @@ a.navB{
 
 a.navB:hover {
     background-color:#003380;
-    text-decoration: none;
+    text-decoration:none;
+    font-weight: bold;
 }
 a.navB:active {
     background-color:cornflowerblue;
