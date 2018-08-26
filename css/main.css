@@ -11,13 +11,13 @@ nav{
 }
 nav ul{
     font-family:'Jua', sans-serif;
-    padding: 5px;
+    padding: 10px;
     margin: 0;
     background-color: #0047b3;
     list-style-type: none;
     font-weight: bold;
     position: fixed;
-    top: 0;
+    top: 5px;
     width: 100%;
 }
 
