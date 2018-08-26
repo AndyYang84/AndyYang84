@@ -53,6 +53,9 @@ a.navB:hover:not(.active){
     background-color:#003380;
     text-decoration: none;
 }
+.active {
+    background-color: #4CAF50;
+}
 
 
 a:hover {
@@ -61,9 +64,6 @@ a:hover {
 
 
 
-a.navB.active {
-    background-color: #4CAF50;
-}
 
 
 
