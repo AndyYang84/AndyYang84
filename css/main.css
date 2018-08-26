@@ -6,12 +6,12 @@ body {
 }
 nav{
     border-bottom: 1.5px solid #d5d5d5; 
-    font-size: 2.3em;
+    font-size: 2.5em;
     background-color: cornflowerblue;
 }
 nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0;
+    padding: 5px;
     margin: 0;
     background-color: #0047b3;
     list-style-type: none;
