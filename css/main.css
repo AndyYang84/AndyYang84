@@ -54,7 +54,7 @@ a.navB{
 }
 
 a.navB:hover {
-    background-color:#003380;
+    background-color:beige;
     text-decoration:none;
     font-weight: bold;
 }
