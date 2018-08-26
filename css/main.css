@@ -32,6 +32,7 @@ footer ul {
 nav ul li{
     display: inline;
     margin-right: 5px;
+    background-color: aliceblue;
 }
 
 footer ul li{
@@ -45,7 +46,7 @@ a {
 }
 
 a.navB{
-    color: white;
+    color:darkblue;
     padding: 3px 6px;
     text-align: center;
     text-decoration: none;
