@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "New Poject created!"
+title: "New Poject created"
 date: 2018-08-27
 ---
 Hi there! I made another small project with the guide taught by a Udemy course.
